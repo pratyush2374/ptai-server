@@ -68,4 +68,4 @@ A custom error handler class that ensures all errors are sent in a structured an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pr/ptai-backend.git
+git clone https://github.com/pratyush2374/ptai-server.git
